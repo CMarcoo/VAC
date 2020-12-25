@@ -1,0 +1,7 @@
+name: VAC
+version: ${project.version}
+main: studio.thevipershow.vac.Vac
+api-version: 1.13
+authors: [ TheViperShow ]
+description: Viper's Anti Cheat
+website: https://github.com/TheViperShow/VAC
